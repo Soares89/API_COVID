@@ -1,0 +1,9 @@
+db.cov.insert([
+
+    {data:"29-03-2021", novos_casos:"309", internadosuci:"136", registo:"397"},
+    {data:"30-03-2021", novos_casos:"389", internadosuci:"129", registo:"398"},
+    {data:"31-03-2021", novos_casos:"617", internadosuci:"127", registo:"399"},
+    {data:"01-04-2021", novos_casos:"592", internadosuci:"129", registo:"400"},
+    {data:"02-04-2021", novos_casos:"548", internadosuci:"131", registo:"401"},
+    {data:"03-04-2021", novos_casos:"280", internadosuci:"126", registo:"402"}
+]);
